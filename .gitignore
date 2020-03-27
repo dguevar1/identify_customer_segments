@@ -1,7 +1,6 @@
 .ipynb_checkpoints
 terms_and_conditions/**
 AZDIAS_Feature_Summary.csv
-Data_Dictionary.md
 general_population_data_with_nans.csv
 Udacity_AZDIAS_Subset.csv
 Udacity_CUSTOMERS_Subset.csv
