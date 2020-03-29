@@ -1,6 +1,13 @@
 .ipynb_checkpoints
 terms_and_conditions/**
 AZDIAS_Feature_Summary.csv
+general_population_data_with_nans_wrangling_data_1.csv
+general_population_data_with_nans_wrangling_data_2.csv
 general_population_data_with_nans.csv
+general_population_data_without_outlier_columns.csv
+general_population_data_without_outlier_rows.csv
+myapp.log
 Udacity_AZDIAS_Subset.csv
 Udacity_CUSTOMERS_Subset.csv
+wrangling_data_1.ipynb
+wrangling_data_2.ipynb
