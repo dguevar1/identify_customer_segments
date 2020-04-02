@@ -1,6 +1,9 @@
 .ipynb_checkpoints
 terms_and_conditions/**
 AZDIAS_Feature_Summary.csv
+clean_customer_population_data.csv
+clean_general_population_data.csv
+customer_population_data_with_nans_20200402_115607.csv
 feature_information_with_binary_categories_encoded.csv
 feature_information_without_dropped_columns.csv
 feature_information_without_mixed_type_columns.csv
