@@ -1,4 +1,5 @@
 .ipynb_checkpoints
+backup_data/**
 terms_and_conditions/**
 AZDIAS_Feature_Summary.csv
 clean_customer_population.csv
@@ -8,6 +9,7 @@ feature_summary_with_binary_categories_encoded.csv
 feature_summary_without_dropped_columns.csv
 feature_summary_without_mixed_type_columns.csv
 feature_summary_without_multivariable_columns.csv
+general_population_outlier_rows.csv
 general_population_with_binary_categories_encoded.csv
 general_population_with_nans_wrangling_data_1.csv
 general_population_with_nans_wrangling_data_2.csv
